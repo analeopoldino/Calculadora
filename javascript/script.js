@@ -65,17 +65,12 @@ function adicionarElementoAoInputResultado(numeroDigitado) {
     }
 
     if (!isOperator) {
-        if (elementoResultado.value === " ") {
+        if (elementoResultado.value === "0") {
             elementoResultado.value = numeroDigitado;
         } else {
             elementoResultado.value += numeroDigitado;
         }
     }
-    if (!isOperator && elementoResultado.value.slice(-1) === " ") {
-    // Se o novo dígito não é um operador e a expressão termina com um espaço,
-    // não faz nada
-    return;
-  }
     calculadora.addDigit(numeroDigitado);
 }
 
@@ -118,9 +113,6 @@ function verificarSimboloDuplicado(numeroDigitadoRecebidoPorParametro) {
     }
   }
 }
-
-
-
 
 function verificarSimboloInicial(numeroDigitadoRecebidoPorParametro) {
     return elementoResultado.value.length == 0 && !Number(numeroDigitadoRecebidoPorParametro);
