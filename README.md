@@ -1,6 +1,6 @@
 # Calculadora 
 
-![Calculadora](imagens/giphy.webp)
+![Calculadora](imagens/giphy.gif)
 
 Esta é uma calculadora simples desenvolvida utilizando as tecnologias web HTML, CSS e JavaScript. Ela permite que o usuário faça cálculos básicos de adição, subtração, multiplicação e divisão de números inteiros.
 
