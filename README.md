@@ -43,7 +43,7 @@ Se você encontrar algum problema ou tiver sugestões de melhorias, fique à von
 ## Referência
 
 
-Este projeto foi desenvolvido com base no tutorial do canal [Cassiano Scheidemantel - Programador CS](https://youtu.be/gya87US6-hQ) no YouTube. Agradecimentos ao autor do tutorial por disponibilizar o conteúdo.
+Este projeto foi desenvolvido com base no tutorial do canal  [Cassiano Scheidemantel - Programador CS](https://youtu.be/gya87US6-hQ)  no YouTube. Agradecimentos ao autor do tutorial por disponibilizar o conteúdo.
 
 
 Agradeço ao canal **Cassiano Scheidemantel - Programador CS** pela excelente explicação e orientação que me ajudaram a criar esta Calculadora.
