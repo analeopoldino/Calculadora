@@ -2,40 +2,57 @@
 
 ![Calculadora](imagens/giphy.gif)
 
-Esta é uma calculadora simples desenvolvida utilizando as tecnologias web HTML, CSS e JavaScript. Ela permite que o usuário faça cálculos básicos de adição, subtração, multiplicação e divisão de números inteiros.
+Esta é uma calculadora simples desenvolvida utilizando as tecnologias web HTML, CSS e JavaScript. Ela permite que o usuário faça cálculos básicos de adição, subtração, multiplicação e divisão de números.
 
-## Demonstração
+## Instalação/Como usar
 
-Você pode acessar a calculadora em funcionamento através do GitHub Pages, seguindo o link abaixo:
+<p align="center">
+<a href="https://analeopoldino.github.io/Calculadora/" align="center"><img src="https://i.imgur.com/abgYAhj.png" alt="cliqueAqui"></a>
+</p>
+<br>
+<br>
 
-[Calculadora Simples - Demonstração](https://analeopoldino.github.io/Calculadora/)
+<p align="center"><i> Se preferir abra uma nova guia do seu navegador e copeie e cole o link abaixo.</i></p>
 
-## Como Usar
+<p align="center">
 
-1. A calculadora possui um layout simples com botões numéricos, operadores e um display para mostrar o resultado dos cálculos.
+```
+LINK: https://analeopoldino.github.io/Calculadora/
+```
+</p>
+<br>
 
-2. Clique nos botões numéricos para inserir os números desejados.
+## Funcionalidade 
 
-3. Clique nos botões de operadores (+, -, *, /) para selecionar a operação desejada.
+* A calculadora possui um layout simples com botões numéricos, operadores e um display para mostrar o resultado dos cálculos.
 
-4. O resultado da operação será mostrado no display.
+* Clique nos botões numéricos para inserir os números desejados.
 
-5. Para realizar uma nova operação, basta clicar no botão AC.
+* Clique nos botões de operadores (+, -, ×, ÷) para selecionar a operação desejada. E clique no botao de ponto (.), caso queira fazer conta com decimais.
 
-## Observações / Status do Projeto
-Este projeto de calculadora está em desenvolvimento ativo e, embora ofereça funcionalidades básicas de cálculo, algumas partes do código podem não estar otimizadas ou podem apresentar limitações. Algumas das funcionalidades podem não funcionar corretamente em determinados cenários ou ainda não foram implementadas por completo.
+* O resultado da operação será mostrado no display.
+
+* Para realizar uma operação, basta clicar no botão AC
+
+* Para apagar um número, basta clicar no botão DEL
+
+## Contribuição 
+
 Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma "issue" ou enviar um "pull request". Sua contribuição é muito bem-vinda!
 
 ## Referência
 
+
 Este projeto foi desenvolvido com base no tutorial do canal [Cassiano Scheidemantel - Programador CS](https://youtu.be/gya87US6-hQ) no YouTube. Agradecimentos ao autor do tutorial por disponibilizar o conteúdo.
 
-## Autor
 
-- Ana Luiza Gonçalves L. Marques
-- GitHub: [analeopoldino](https://github.com/analeopoldino)
+Agradeço ao canal **Cassiano Scheidemantel - Programador CS** pela excelente explicação e orientação que me ajudaram a criar esta Calculadora.
+
 
 ---
+
+Obrigado por visitar o site! Espero que ele possa servir como um guia útil para o desenvolvimento de projetos mais complexos no futuro 🌟
+
 
 
  
